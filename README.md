@@ -63,12 +63,6 @@ college-proj/
 
 ---
 
-## 🌐 Hosting
-
-Coming soon... (optional: add your Vercel/Netlify & PythonAnywhere/Render deployment links later)
-
----
-
 ## 📌 Note
 
 This project was created as part of my academic coursework and reflects my interest in combining **tech with beauty.** 🧴✨
