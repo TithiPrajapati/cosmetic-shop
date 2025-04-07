@@ -1,0 +1,17 @@
+/* Global Font Styles */
+body {
+    font-family: 'Times New Roman', serif;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #333;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Times New Roman', serif;
+    font-weight: 700;
+    margin-bottom: 1rem;
+  }
+  
+  p, ul, ol, li, a, button, input, textarea, label {
+    font-family: 'Times New Roman', serif;
+  }

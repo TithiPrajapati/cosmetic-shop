@@ -1,0 +1,43 @@
+/* Layout.css */
+.custom-navbar {
+    background-color: #f8f9fa;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .brand{
+    
+      font-size: xx-large;
+      font-weight: light;
+      margin-top: auto;
+      margin-bottom: auto;
+    
+  
+  }
+  
+  .nav-link {
+    color: #555;
+    font-weight: 500;
+    transition: color 0.3s ease;
+  }
+  
+  .nav-link:hover {
+    color: #007bff;
+  }
+  
+  #basic-nav-dropdown {
+    color: #555;
+  }
+  
+  .dropdown-item {
+    color: #555;
+    transition: background-color 0.3s ease;
+  }
+  
+  .dropdown-item:hover {
+    background-color: #f1f3f5;
+  }
+  
+  footer {
+    background-color: #f8f9fa;
+    border-top: 1px solid #e9ecef;
+  }

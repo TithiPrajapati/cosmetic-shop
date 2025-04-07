@@ -1,0 +1,35 @@
+.product-detail .card {
+    overflow: hidden;
+  }
+  
+  .product-detail .image-container {
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+  
+  .product-detail .product-image {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+  }
+  
+  .product-detail .card-body {
+    padding: 2rem;
+  }
+  
+  .product-detail .display-4 {
+    font-size: 2.5rem;
+  }
+  
+  @media (max-width: 768px) {
+    .product-detail .image-container {
+      height: 300px;
+    }
+  
+    .product-detail .display-4 {
+      font-size: 2rem;
+    }
+  }

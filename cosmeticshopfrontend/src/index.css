@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'NicholasCochin';
+    src: url('/font/Nicholas Cochin EF Regular.ttf') format('truetype');
+  }
+
+  * {
+    font-family: 'NicholasCochin'
+    , sans-serif;
+  }

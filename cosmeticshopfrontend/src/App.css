@@ -1,0 +1,11 @@
+/* @font-face {
+    font-family: 'NicholasCochin';
+    src: url('/font/Nicholas Cochin EF Regular.ttf') format('truetype');
+  }
+
+  :root {
+    font-family: 'NicholasCochin'
+    , sans-serif;
+  } */
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap');

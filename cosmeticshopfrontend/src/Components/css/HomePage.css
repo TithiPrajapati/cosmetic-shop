@@ -1,0 +1,77 @@
+/* General Styling */
+.home-page .hero-section {
+    background: linear-gradient(135deg, #f8f9fa, #ffffff);
+    }
+    .home-page .hero-section img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    }
+    .home-page .featured-products .carousel-item img {
+    height: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+    }
+    .home-page .categories-section .card,
+    .home-page .testimonials .card {
+    transition: all 0.3s ease;
+    }
+    .home-page .categories-section .card:hover,
+    .home-page .testimonials .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+    }
+    .home-page .categories-section .button {
+    background-color: black;
+    color: white;
+    transition: all 0.3s ease;
+    }
+    .home-page .categories-section .button:hover {
+    background-color: #333;
+    color: white;
+    }
+    .home-page .carousel-caption {
+    background-color: rgba(0, 0, 0, 0.65);
+    padding: 15px;
+    border-radius: 8px;
+    color: #fff;
+    }
+    .home-page .categories-section .card-img-top {
+    border-radius: 10px;
+    }
+    .home-page .beauty-tips .list-group-item {
+    background: #f8f9fa;
+    border: none;
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    }
+    .home-page .beauty-tips .list-group-item svg {
+    margin-right: 10px;
+    }
+    .home-page .newsletter-section {
+    background-color: #f5f7fa;
+    }
+    .home-page .newsletter-section form {
+    max-width: 500px;
+    margin: auto;
+    }
+    .home-page .hover-shadow {
+    transition: box-shadow 0.3s ease-in-out;
+    }
+    .home-page .hover-shadow:hover {
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+    }
+    .home-page .transition {
+    transition: all 0.3s ease-in-out;
+    }
+
+    .home-page .hover-black:hover {
+        background-color: #333;
+        color: #fff;
+      }
+
+    .home-page
+    {
+        font-family: 'Times New Roman', Times, serif;
+    }
